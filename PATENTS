@@ -1,0 +1,17 @@
+NOTICE OF PATENT RIGHTS
+
+This software is a reference implementation of the concepts contained in 
+U.S. Provisional Patent Application No. 63/921,475 ("Permanent Point Value 
+Vector and Scarred-Self Alignment Architecture").
+
+The availability of this source code under the Functional Source License (FSL) 
+does NOT constitute a waiver of the author's patent rights regarding the 
+underlying invention, architecture, or methodology.
+
+While you are free to use this software for educational and evaluation purposes 
+under the terms of the LICENSE file, any commercial deployment, proprietary 
+derivative work, or hardware implementation that utilizes the "Scarred-Self Ledger" 
+or "Non-Fungible Value Hierarchy" may require a separate patent license once 
+the patent issues.
+
+For licensing inquiries, contact: davidcappelli@proton.me

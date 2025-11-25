@@ -1,0 +1,44 @@
+Functional Source License, Version 1.1, Apache 2.0 Future License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies
+of the Software, and to permit persons to whom the Software is furnished to do
+so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+The Software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability,
+fitness for a particular purpose and noninfringement. In no event shall the
+authors or copyright holders be liable for any claim, damages or other
+liability, whether in an action of contract, tort or otherwise, arising from,
+out of or in connection with the Software or the use or other dealings in the
+Software.
+
+******************************************************************************
+
+COMPETING USE RESTRICTION:
+
+YOU MAY NOT USE THE SOFTWARE IN A PRODUCT OR SERVICE THAT COMPETES WITH THE
+LICENSOR'S PRODUCT OR SERVICE.
+
+"Compete" means to use the Software to provide a product or service that is
+substantially similar to the Licensor's product or service, where such use
+would substitute for the Licensor's product or service in the market.
+
+******************************************************************************
+
+CHANGE LICENSE:
+
+On 2027-11-24, the Competing Use Restriction above shall terminate, and the
+Software shall be governed solely by the terms of the Apache License, Version
+2.0 (the "Change License"), as published by the Apache Software Foundation.
+
+******************************************************************************
+
+LICENSOR: David Cappelli
+SOFTWARE: VecP Conscience
+CHANGE DATE: 2027-11-24
